@@ -18,11 +18,12 @@
 |  6   | [Inheritance](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance), [Initialization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization), [Deinitailization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization) |
 |  7   | [Optional Chaining](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining), [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling), [Concurrency](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency) |
 |  8   | [Type Casting](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting), [Nested Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes), [Extensions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions) |
-|  9   | [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols), [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics), [Opaque and Boxed Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes) |
-|  10  | [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols), [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics), [Opaque and Boxed Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes) |
-|  11  | [ARC](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting) |
-|  12  | [Memory Safety](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/memorysafety), [Access Control](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol),  [Advanced Operators](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators) |
-|  13  | [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/) |
+|  9   | [Protocols](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols) |
+|  10  | [Generics](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics) |
+|  11  | [Opaque and Boxed Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes) |
+|  12  | [ARC](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting) |
+|  13  | [Memory Safety](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/memorysafety), [Access Control](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol),  [Advanced Operators](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators) |
+|  14  | [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/) |
 
 
 
